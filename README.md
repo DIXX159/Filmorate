@@ -1,5 +1,10 @@
 # Filmorate
-#### Application for recording movie ratings.
+
+Приложение для работы с фильмами и оценками.
+Позволяет оставлять отзывы и формировать рейтинг фильмов, а также заводить друзей и рекомендовать им фильмы.
+
+Технологический стек: Java 11, Spring Framework, REST, Lombok, Docker, Maven, JDBC, Hibernate, PostgreSQL, JPA.
+
 ![Схема БД](https://github.com/fixercom/sql_img_schemes/raw/master/shema.png)
 #### Developers:
 [Stanislav Podvysotskiy](https://github.com/StanislavPodvysotskiy)
